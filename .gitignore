@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/
+.serverless/
+yarn.lock
+node_modules/
